@@ -1,0 +1,12 @@
+
+/work
+bin
+obj
+/TestResults
+/vendor
+/reference
+*.suo
+_ReSharper.RtUtility
+*.user
+Thumbs.db
+/Release
